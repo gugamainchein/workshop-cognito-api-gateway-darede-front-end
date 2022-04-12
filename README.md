@@ -2,12 +2,12 @@
 
 ## Introdução
 
-O workshop a seguir tem como objetivo abordar os principais tópicos das integrações entre os desenvolvimentos back-end e front-end com os recursos AWS, como Cognito, API Gateway, Network Load Balancer, VPC Link, WAF, ECR, ECS, S3 e CloudFront.
+O workshop a seguir tem como objetivo abordar os principais tópicos das integrações entre os desenvolvimentos back-end e front-end com os recursos AWS, como Cognito, API Gateway, Network Load Balancer, VPC Link, WAF, ECR, ECS, S3 e CloudFront.</br>
 Para isso, desenvolvemos 2 aplicações para fim de exemplificação das integrações e comunicações com os serviços, uma em React JS (front-end) e outra em .Net Core (back-end).
 
 ### Arquitetura:
 
-<img src="https://docs-workshop-cognito-api-gateway-darede.s3.amazonaws.com/Workshop+-+Arquitetura.pdf" alt="Arquietura" />
+![Screenshot](https://docs-workshop-cognito-api-gateway-darede.s3.amazonaws.com/Workshop+-+Arquitetura.pdf)
 
 ### Requisitos Obrigatórios:
 
@@ -33,5 +33,5 @@ Veja a documentação <a href="https://docs-workshop-cognito-api-gateway-darede.
 
 ## Créditos:
 
-Empresa: Darede
+Empresa: Darede</br>
 Equipe: Gustavo Mainchein, Maico Kley e Bruno Moreira
