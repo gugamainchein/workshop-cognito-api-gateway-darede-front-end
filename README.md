@@ -7,7 +7,7 @@ Para isso, desenvolvemos 2 aplicações para fim de exemplificação das integra
 
 ### Arquitetura:
 
-Veja a arquitetura <a href="https://docs-workshop-cognito-api-gateway-darede.s3.amazonaws.com/Workshop+-+Arquitetura.pdf">clicando aqui</a>
+Veja a arquitetura <a href="https://docs-workshop-cognito-api-gateway-darede.s3.amazonaws.com/Workshop+-+Arquitetura+(1).html">clicando aqui</a>
 
 ### Requisitos Obrigatórios:
 
