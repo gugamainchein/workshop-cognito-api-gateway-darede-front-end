@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Workshop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introdução
 
-## Available Scripts
+O workshop a seguir tem como objetivo abordar os principais tópicos das integrações entre os desenvolvimentos back-end e front-end com os recursos AWS, como Cognito, API Gateway, Network Load Balancer, VPC Link, WAF, ECR, ECS, S3 e CloudFront.
+Para isso, desenvolvemos 2 aplicações para fim de exemplificação das integrações e comunicações com os serviços, uma em React JS (front-end) e outra em .Net Core (back-end).
 
-In the project directory, you can run:
+### Arquitetura:
 
-### `npm start`
+<img src="https://docs-workshop-cognito-api-gateway-darede.s3.amazonaws.com/Workshop+-+Arquitetura.pdf" alt="Arquietura" />
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Requisitos Obrigatórios:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Conta AWS
+- AWS CLI
+- Node JS
+- Visual Studio 2019
+- AWS Toolkit for Visual Studio
+- Docker Desktop
 
-### `npm test`
+### Requisitos Opcionais:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- VS Code
 
-### `npm run build`
+### Repositórios:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Front-End: https://github.com/gugamainchein/workshop-cognito-api-gateway-darede-front-end
+- Back-End: https://github.com/gugamainchein/workshop-cognito-api-gateway-darede-back-end
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Documentação:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Veja a documentação <a href="https://docs-workshop-cognito-api-gateway-darede.s3.amazonaws.com/Workshop+-+Documento.pdf">clicando aqui</a>
 
-### `npm run eject`
+## Créditos:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Empresa: Darede
+Equipe: Gustavo Mainchein, Maico Kley e Bruno Moreira
