@@ -34,4 +34,4 @@ Veja a documentação <a href="https://docs-workshop-cognito-api-gateway-darede.
 ## Créditos:
 
 Empresa: Darede</br>
-Equipe: Gustavo Mainchein, Maico Kley e Bruno Moreira
+Equipe: Bruno Moreira, Gustavo Mainchein e Maico Kley
